@@ -1,0 +1,6 @@
+{
+  "name": "SUPH AI",
+  "description": "SUPH AI - Google Gemini ilə təchiz edilmiş güclü və müasir süni intellekt çatbotu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
